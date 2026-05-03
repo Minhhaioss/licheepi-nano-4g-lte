@@ -2,8 +2,8 @@
 
 Project build Linux + enable UART1 + PPP for 4G LTE module (SIM A7670C / SIM7600) on LicheePi Nano.
 
-> This project is a configuration layer on top of LicheePi Nano SDK.  
-> It does NOT include full SDK source.
+> This project provides configuration for LicheePi Nano SDK.
+> To build, you must first setup the official SDK, then apply this repo on top.
 
 ---
 
